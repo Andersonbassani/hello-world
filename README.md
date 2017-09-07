@@ -1,2 +1,4 @@
 # hello-world
-Testing
+
+Hi humans
+Testing branching in Git during the brazilian holiday!
